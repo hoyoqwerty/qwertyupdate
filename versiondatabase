@@ -1,7 +1,7 @@
 qwerty3x===1.00_beta3
-qwerty-os-core===0.0.25
-qwerty-network===0.0.23
-qwerty-bluetooth===0.0.20
-qwerty-security===0.0.21
-qwerty-music===0.0.19
-qwerty-perf===0.0.21
+qwerty-os-core===0.0.25===d3cb356efa743c8fd715a95b5785ab9bda173f857763731c6ca0fb909f03f7fa
+qwerty-network===0.0.23===1cb957c02e57eef1982686c4e386ab1d3c23ddeb93902c84f81e9db7982b050a
+qwerty-bluetooth===0.0.20===b16ca513e5f7e0b9192e56b1d7f938616eb76f9d5f6fbe756db9ab800ac72eb3
+qwerty-security===0.0.21===54c4cf3eca212ba9595dfcd5d8a2417ccca048115cddcff495fb38333754ff9f
+qwerty-music===0.0.19===3fac878b37ff2dfc87ac05943dfe7961200c1a321d7c1ee3adb7d2ac4b681bbd
+qwerty-perf===0.0.21===4f387df8920497526b339070305f32ec6f1fd455e4adceec6da1ab7c90c8cf29
